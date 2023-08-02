@@ -1,0 +1,11 @@
+div{
+    padding: 1px;
+    margin: 5px;
+    border-style: dashed;
+    
+    
+}
+body{
+    background-color: aquamarine;
+    border-style: dotted;
+}
